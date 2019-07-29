@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 //collects data from an analog sensor 
 int pin1 = 2;  
 int pin2 = 1;  
